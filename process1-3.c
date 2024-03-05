@@ -1,14 +1,4 @@
-/*
-act1-3.c
-First player
-Link to semaphores
-Link to shm segment
 
-LOOP
-  wait(sem1)
-    do
-  signal(sem2)
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
