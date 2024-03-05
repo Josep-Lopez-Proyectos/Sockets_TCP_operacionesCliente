@@ -1,18 +1,8 @@
 /*
-act2.c
-
-Create mutex 
-Create conditional variables
-
-Create global shared memory with counters and matrix
-
-create 2 threads
-wait for both threads to finish
-print info
-
+1- mutex 
+2- conditional variables
 thread1: LOOP till 100 numbers generated, print info
 thread2: LOOP till 100 numbers generated, print info
-
 */
 
 #include <stdio.h>
