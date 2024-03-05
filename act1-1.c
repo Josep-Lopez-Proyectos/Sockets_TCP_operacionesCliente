@@ -1,8 +1,4 @@
-/*
-act1-1.c
-create semaphores and initialize sempahore1=1, sempahore2=0
-create  shm segment, with 2 counters=0 and a 100 bytes memory segment ='0'
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
