@@ -1,17 +1,6 @@
 /*
-act4.c
-
-Create mutex 
-Create conditional variables
-
-Create global shared memory with shared values
-create 2 threads
-wait for both threads to finish
-print info
-
 thread1: LOOP till end of game
 thread2: LOOP till end of gameo
-
 */
 
 #include <stdio.h>
