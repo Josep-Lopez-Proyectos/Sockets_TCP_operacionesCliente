@@ -1,9 +1,6 @@
 /*
-act1-4.c
-Second player
 Link to semaphores
 Link to shm segment
-
 LOOP
   wait(sem2)
     do
