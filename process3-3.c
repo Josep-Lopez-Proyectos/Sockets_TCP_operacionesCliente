@@ -1,5 +1,4 @@
 /*
-act3-3.c
 First player server
 Link to semaphores
 Link to shm segment
