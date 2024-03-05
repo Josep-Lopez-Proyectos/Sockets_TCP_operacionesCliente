@@ -1,8 +1,3 @@
-/*
-act1-2.c
-delete semaphores 
-delete shm segment
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
