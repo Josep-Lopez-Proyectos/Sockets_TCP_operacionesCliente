@@ -1,5 +1,4 @@
 /*
-act3-4.c
 Second player
 Link to semaphores
 Link to shm segment
