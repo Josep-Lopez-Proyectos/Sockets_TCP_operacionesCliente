@@ -1,5 +1,4 @@
 /*
-act3-2.c
 delete semaphores
 delete shm segment
 */
